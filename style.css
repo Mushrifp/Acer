@@ -1,0 +1,187 @@
+body{
+    margin: 0px;
+}
+.header1{
+    background-color: #363636;
+    width: 100%;
+    height: 40px;
+
+}
+.grid{
+    width: 30px;
+    padding-top: 3px;
+    margin-left: 25px;
+}
+.Acer{
+    width: 1200px;
+    margin-top: -30px ;
+    margin-left: 66px;
+    color: white;
+    font-weight:700;
+    font-size: 18px;
+}
+.location{
+    margin-top: -30px;
+    margin-left: 1215px;
+    width: 30px;
+}
+.contact{
+    margin-top: -30px;
+    margin-left: 1255px;
+    width: 40px;
+}
+.cart{
+    margin-top: -31px;
+    margin-left: 1315px;
+    width: 29px;
+}
+.header2{
+    width: 100%;
+    height: 65px;
+
+}
+.Acer-text{
+    padding-top: -1px;
+    
+    width: 130px;
+  }
+  .nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: -63px;
+    font-size: 22px;
+    height: 80px;
+    padding-top: 25px;
+  }
+span{
+  height: 80px;
+  padding: 20px;
+  margin-top: -25px;
+   
+  }
+span:hover{
+    background-color: #ececec;
+    transition: 0.5s;
+}
+.Swift{
+    margin-top: -375px;
+    margin-left: 640px;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+.Power{
+    margin-left: 580px;
+    font-weight: 750;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+.evo{
+    margin-left: 620px;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+.search-icon{
+   width: 20px;
+   margin-top: -40px;
+   margin-left: 1320px;
+}
+.explore{
+    margin-left: 630px;
+    margin-top: 50px;
+    width: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 600;
+}
+button{
+    width: 102px;
+    background: white;
+    height: 53px;
+}
+.explore:hover,button:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.brows{  
+    margin-top: 157px;
+    height: 180px;
+    text-align: center;
+}
+.brows h1{
+    color: rgb(0, 0, 0);
+    padding-top: 60px;
+    font-size:40px;
+    font-weight: 700;
+}
+.items{
+    display: flex;
+    align-items: center;
+    height: 200px;
+}
+.lap,.desk,.moni,.project,.Chromebooks,.accs{
+    margin-left: 80px;
+}
+.box{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+p{
+    font-weight: 600;
+    font-size: 25px;
+}
+.box1,.box2,.box3,.box4{
+    margin-left: 20px;
+}
+.more{
+    margin-left: 20px;
+    text-decoration: underline;
+}
+.Top{
+    margin-top: 70px;
+    text-align: center;
+    background-color: #eeeeee;
+    height: 50px;
+}
+.h{
+ font-size: 15px;
+ font-weight: 600;
+ padding-top: 15px;
+}
+.Top:hover{
+    background-color: #aaaaaa;
+    transition: 0.5s;
+}
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: #dfdfdf;
+}
+ul{
+    font-size: 18px;
+}
+.list{
+    width: 100%;
+    display: flex;
+    height: 340px;
+    justify-content: space-around;
+}
+.Bottom{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  
+}
+.bottom-size{
+    width: 50px;
+}
+.bottom-size:hover{
+     width: 60px;
+     transition: 0.10;
+
+}
